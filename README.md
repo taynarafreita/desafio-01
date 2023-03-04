@@ -1,4 +1,4 @@
-# desafio-01
+# desafio-01 - Rocketseat Explorer
 
 O desafio consistia em organizar a página, deixando conforme o layout original.
 
