@@ -9,3 +9,6 @@ A página estava da seguinte forma:
 E precisava ficar da seguinte forma:
 
 ![image](https://user-images.githubusercontent.com/101151612/222869105-538fa498-557c-43a7-ad10-78049ad508e6.png)
+
+
+Iniciado e finalizado em 03/03/2023.
